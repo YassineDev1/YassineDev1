@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yassine</h1>
 <h3 align="center">A passionate Full Stack developer from Morocco</h3>
 
-- 👨‍💻 All of my projects are available at [https://elmherziyassine.vercel.app/](https://elmherziyassine.vercel.app/)
+- 👨‍💻 Here is my portfolio at [https://elmherziyassine.vercel.app/](https://elmherziyassine.vercel.app/)
 
 - 💬 Ask me about **React, Vue, Express, Laravel, MongoDB, MySQL**
 
